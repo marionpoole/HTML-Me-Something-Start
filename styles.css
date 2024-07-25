@@ -1,1 +1,70 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    text-align: center;
+    background-color: lightpink;
+}
+
+.button1 {
+    background-color: #04AA6D;
+    border-radius: 8px;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.button1:hover {
+    background-color: #008CBA;
+  }
+
+ul {
+    text-align: center;
+    display: inline-block;
+}
+
+h2 {
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    color:navy;
+}
+
+h4 {
+    color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#edinburghParagraph {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#fairypool {
+    color: darkcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    color:darkviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+header {
+    color:darkviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
